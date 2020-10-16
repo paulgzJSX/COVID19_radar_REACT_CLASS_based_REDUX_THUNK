@@ -1,0 +1,1 @@
+COVID-19 Radar app on REACT with class based components, REDUX and THUNK libraries.
